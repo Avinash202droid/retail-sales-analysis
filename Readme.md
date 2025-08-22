@@ -31,10 +31,10 @@ This project analyzes sales data from a fictional Superstore using **Python (Pan
 -  Which categories and sub-categories are the most profitable?
 -  Which states bring the highest and lowest profit margins?
 -  What are the top 10 most profitable products?
--
 -   Which months perform best in terms of sales and profit?
 
 ---
+
 
 
 
